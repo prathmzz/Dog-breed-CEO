@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container-us{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #b38d8d;
+    width: 100vw;
+    height: 100vh;
+}
+
+/* .card{
+    border: 2px black solid;
+    margin: auto;
+    width: 25vw;
+    background: #000;
+    height: 75vh;
+} */
+ button{
+    padding: 10px;
+    background-color: rgb(153, 51, 51);
+    border: 2px solid rgb(153, 51, 51);
+    border-radius: 25%;
+    color: white;
+ }
